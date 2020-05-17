@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "New Unity Project",
+"companyName": "Tongji SSE",
+"productName": "Elevator Simulator by Jiajie LI",
 "dataUrl": "test.data.unityweb",
 "wasmCodeUrl": "test.wasm.code.unityweb",
 "wasmFrameworkUrl": "test.wasm.framework.unityweb",
